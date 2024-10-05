@@ -37,59 +37,6 @@
     </ul>
 </section>
 
-<section>
-    <h2>Project Structure</h2>
-    <p>The project is organized as follows:</p>
-    <pre>
-Indian-Crime-Data-Analysis/
-│
-├── Indian Crime Data Analysis.ipynb   # Jupyter notebook with the EDA process
-├── data/                              # Directory containing the cleaned dataset
-├── images/                            # Directory containing generated charts
-└── README.html                        # This readme file as HTML
-    </pre>
-</section>
-
-<section>
-    <h2>Setup Instructions</h2>
-
-    <h3>Prerequisites</h3>
-    <p>You will need the following tools to run this project:</p>
-    <ul>
-        <li>Python 3.7+</li>
-        <li>Jupyter Notebook or Jupyter Lab</li>
-        <li>The following Python libraries:
-            <ul>
-                <li>pandas</li>
-                <li>numpy</li>
-                <li>matplotlib</li>
-                <li>seaborn</li>
-                <li>plotly</li>
-            </ul>
-        </li>
-    </ul>
-
-    <h3>Installation</h3>
-    <ol>
-        <li>Clone the repository:
-            <pre><code>git clone https://github.com/yourusername/Indian-Crime-Data-Analysis.git</code></pre>
-        </li>
-        <li>Navigate to the project folder:
-            <pre><code>cd Indian-Crime-Data-Analysis</code></pre>
-        </li>
-        <li>(Optional) Create and activate a virtual environment:
-            <pre><code>python -m venv venv<br>
-source venv/bin/activate  # Windows: venv\Scripts\activate</code></pre>
-        </li>
-        <li>Install the required libraries:
-            <pre><code>pip install -r requirements.txt</code></pre>
-        </li>
-        <li>Start Jupyter Notebook:
-            <pre><code>jupyter notebook</code></pre>
-        </li>
-        <li>Open the <code>Indian Crime Data Analysis.ipynb</code> notebook and run all the cells to view the analysis.</li>
-    </ol>
-</section>
 
 <section>
     <h2>Future Work</h2>
@@ -105,11 +52,4 @@ source venv/bin/activate  # Windows: venv\Scripts\activate</code></pre>
     <p>Feel free to fork the repository and submit pull requests with improvements or additional analysis techniques.</p>
 </section>
 
-<section>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
-</section>
-
-</body>
-</html>
 
