@@ -1,40 +1,4 @@
 
-    <title>Indian Crime Data Analysis - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-            line-height: 1.6;
-        }
-        header {
-            background-color: #333;
-            color: white;
-            padding: 10px 0;
-            text-align: center;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        section {
-            margin-bottom: 20px;
-        }
-        code {
-            background-color: #eee;
-            padding: 2px 5px;
-            border-radius: 4px;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-left: 4px solid #333;
-            overflow-x: auto;
-        }
-        a {
-            color: #333;
-        }
-    </style>
 </head>
 <body>
 
