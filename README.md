@@ -16,13 +16,24 @@
     <p>The dataset contains crime reports from different cities in India and includes the following attributes:</p>
     <ul>
         <li><strong>Crime Type</strong></li>
-        <li><strong>Victim’s Age</strong></li>
-        <li><strong>Gender of the Victim</strong></li>
-        <li><strong>City</strong></li>
-        <li><strong>Crime Year</strong></li>
-        <li><strong>Time of Crime</strong></li>
-        <li><strong>Case Status</strong> (open/closed)</li>
-    </ul>
+    <li><strong>Victim’s Age</strong></li>
+    <li><strong>Gender of the Victim</strong></li>
+    <li><strong>City</strong></li>
+    <li><strong>Crime Year</strong></li>
+    <li><strong>Time of Crime</strong></li>
+    <li><strong>Case Status</strong> (open/closed)</li>
+    <li><strong>Report Number</strong></li>
+    <li><strong>Date Reported</strong></li>
+    <li><strong>Date of Occurrence</strong></li>
+    <li><strong>Crime Code</strong></li>
+    <li><strong>Crime Description</strong></li>
+    <li><strong>Weapon Used</strong></li>
+    <li><strong>Crime Domain</strong></li>
+    <li><strong>Police Deployed</strong></li>
+    <li><strong>Case Closed</strong></li>
+    <li><strong>Date Case Closed</strong></li>
+       </ul>
+    
 </section>
 
 <section>
